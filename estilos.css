@@ -1,0 +1,93 @@
+@import url('https://fonts.googleapis.com/css?family=Kanit');
+
+body {
+	background-color: red;
+	font-family: Kanit;
+}
+
+#shadow-fixed{
+	background-color: #353941;
+}
+
+.titulo{
+	font-weight: bold;
+	font-size: 30px;
+}
+
+.logo{
+	max-width: 100px;
+}
+
+.bg-red{
+	background-color: red;
+}
+
+#carrousel{
+	margin-bottom: 75px;
+}
+
+.tituloficha, .titulopelis, .tituloactores{
+	text-align: center;
+	font-size: 30px;
+}
+
+.titulopels{
+	text-align: left;
+	font-weight: bold;
+	font-size: 25px;
+}
+
+.text{
+	text-align: justify;
+	font-style: italic;
+}
+
+p{
+	text-decoration: none;
+	font-style: italic;
+	color: black;
+	text-align: justify;
+}
+
+.card-body{
+	background-color: #DADADA;
+}
+
+#cardtitulo{
+	text-align: center;
+	font-size: 25px;
+	font-weight: bold;
+}
+
+.frase{
+	text-align: center;
+	font-size: 20px;
+}
+
+.textsmall{
+	text-align: center;
+	font-weight: bold;
+}
+
+#footer{
+	background-color: #DADADA;
+	padding: 50px;
+	text-align: center;
+}
+
+.titulofooter{
+	font-size: 30px;
+}
+
+#infotitulo, #precio{
+	color: #DA9F31;
+	text-align: center;
+	font-weight: bold;
+	font-size: 20px;
+}
+
+#info{
+	text-align: left;
+	font-weight: bold;
+	font-size: 15px;
+}
